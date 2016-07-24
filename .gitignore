@@ -1,0 +1,17 @@
+/node_modules
+
+/assets/**/*
+!/assets/.keep
+
+/scripts/*
+!/scripts/.keep
+
+/styles/*
+!/styles/.keep
+
+/views/**/*
+!/views/layout/_page.jade
+!/views/index.jade
+
+/web/*
+!/web/.keep
